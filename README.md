@@ -7,7 +7,7 @@ The first implementation I did is parse.js. I felt it was spaggheti-code and tha
 
 In order to see the utility run:
 * Pull the repository
-* cd into the directory
-* rm output/*
-* ./run
+* ```cd``` into the directory
+* ```rm output/*```
+* ```./run```
 * Inspect input/# with output/# based on the file template
