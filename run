@@ -1,0 +1,8 @@
+#!/bin/sh
+
+#Change this line to call your program
+COMMAND="node mail-merge.js"
+
+#Do not modify this line
+$COMMAND template output input/*
+
