@@ -1,15 +1,17 @@
-Dear {name},
+Hey {name}!
 
-Thank you for ordering {product}!
+Thanks for picking up {product}!
 
 {#if email}
-We will send a confirmation email to '{email|filter:lowercase}' once your order is ready.
+A confirmation email was sent to '{email|filter:lowercase}'.
 {#else if phone}
-We will call you at '{phone|format:phone}' once your order is ready.
+A confirmation call will be placed to '{phone|format:phone}' soon.
+{#else}
+We're glad you shopped with us.
 {#end if}
 
-We expect your order to be processed by {date|format:date}.
+We'll get this out to you by {date|format:date}.
 
-Thank You,
-XYZ Widget Co.
+Have a great day,
+That place you ordered stuff from that one time.
 
