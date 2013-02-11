@@ -35,15 +35,10 @@ There are some tricky parts to the test:
 - You should handle whitespace appropriately.
 
 
-There are 2 shell scripts which comprise the test harness: 
+The shell script which comprises the test harness: 
 
 - A script called run which you must modify to run the program you
   will write.
-
-- A script called test which will run your program using the run
-  script and compare the output to the expected output in the
-  "expected" directory. The test script will also print "success" or
-  "failure" depending on how the test went.
 
 
 Some of the test is intentionally open ended. We want to see how you
