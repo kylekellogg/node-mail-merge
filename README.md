@@ -1,7 +1,7 @@
 Node Command Line Utility for Mail Merging
 ==========================================
 
-This challenge was provided to me by @drmanitoba. It's something his work came up with to test potential hires, but I thought it would be fun to do.
+This challenge was provided to me by https://github.com/drmanitoba. It's something his work came up with to test potential hires, but I thought it would be fun to do.
 
 This was implemented strictly as a means to challenge myself. I do not recommend it's use for any application other than learning from, critiquing, or using it to get the files necessary in order to complete the challenge yourself.
 
